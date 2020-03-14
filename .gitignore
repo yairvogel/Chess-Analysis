@@ -1,3 +1,8 @@
+# unused datasets
+datasets/games_eitan.csv
+datasets/stats_eitan.json
+datasets/profile_eitan.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
